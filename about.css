@@ -249,11 +249,23 @@ h1 {
   .feature-card {
     flex: none;
     width: 100%;
-    scroll-snap-align: start;
+    /* scroll-snap-align: start; */
   }
   .cta-buttons {
     display: flex;
     align-items: center;
+  }
+  .scroll {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 50px 20px;
+  }
+  .testimonial-box {
+    flex: none;
+    width: 100%;
+    /* scroll-snap-align: start; */
   }
 }
 
