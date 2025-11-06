@@ -368,15 +368,10 @@ header {
   opacity: 0.9;
 }
 
-footer {
-  background: #d63384;
-  color: #fff;
-  text-align: center;
-  padding: 40px 20px;
-}
+
 footer {
   text-align: center;
-  padding:40px 20px;
+  /* padding:40px 20px; */
   font-size: 0.95rem;
   color: #fff;
   background-color: #d63384;

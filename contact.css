@@ -194,6 +194,7 @@ button {
   font-size: large;
   display: flex;
   align-self: center;
+  margin-bottom: 40px;
 }
 #location {
   display: flex;
@@ -201,7 +202,7 @@ button {
 }
 
 footer {
-  margin: 40px 0;
+  /* margin: 40px 0; */
   padding: 40px 20px;
   background-color: #d63384;
   text-align: center;
