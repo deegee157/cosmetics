@@ -273,9 +273,9 @@ h1 {
   margin: 40px 0;
   padding: 20px;
   border-radius: 14px;
-  background: linear-gradient(180deg, rgba(183, 58, 90, 0.06), transparent);
+ background-color: #d63384;
   text-align: center;
-  color: var(--muted);
+  color: #fff;
 }
 .ready-to-go h2 {
   font-size: 2em;
@@ -283,4 +283,5 @@ h1 {
 }
 .ready-to-glow p {
   font-size: 1.2em;
+  color: #fff;
 }
